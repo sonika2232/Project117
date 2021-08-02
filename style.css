@@ -1,0 +1,27 @@
+.heading
+{
+color: rgb(3, 0, 1);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bolder;
+font-size: 23px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px rgb(5, 9, 15);
+}
+
+.heading_div
+{
+float: none;
+background: rgb(22, 69, 97);
+padding: 10px;
+border-radius: 20px;
+color:rgb(0, 0, 0);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bold;
+box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div2
+{
+font-size: 18px;
+}
